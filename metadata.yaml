@@ -1,0 +1,32 @@
+_repo: The-Rebellion-of-Margaret_18844
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Twidle, Arthur
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '8293'
+    url: http://www.gutenberg.org/2009/agents/8293
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Twidle
+covers:
+- cover_type: archival
+  image_path: 18844-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mockler, Geraldine
+    gutenberg_agent_id: '8292'
+    url: http://www.gutenberg.org/2009/agents/8292
+description: ''
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+title: The Rebellion of Margaret
+url: http://www.gutenberg.org/ebooks/18844
