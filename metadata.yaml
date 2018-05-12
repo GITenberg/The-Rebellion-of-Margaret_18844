@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '8292'
     url: http://www.gutenberg.org/2009/agents/8292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18844#The-Rebellion-of-Margaret
 gutenberg_issued: '2006-07-16'
 gutenberg_type: Text
 identifiers:
